@@ -26,12 +26,7 @@ namespace WindowsFormsApp3
 
         private void button2_Click(object sender, EventArgs e)
         {
-            button2.Hide();
-            pictureBox1.Hide();
-            picturebox2.show();
-            /////23123123123123123
-            //////213123
-            ///12312312
+            //88
         }
     }
 }
