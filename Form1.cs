@@ -31,7 +31,6 @@ namespace WindowsFormsApp3
             picturebox2.show();
             /////23123123123123123
             //////213123
-            ///12312312
         }
     }
 }
